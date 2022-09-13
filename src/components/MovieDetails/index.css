@@ -4,6 +4,7 @@
 }
 .movie-details-background {
   background: #131313;
+  min-height:100vh;
 }
 .movie-detail-page {
   background-size: cover;
